@@ -1,0 +1,114 @@
+metadata:
+  generated_at: '2025-06-25 20:47:24'
+  source_file: communities.yaml
+  total_organizers: 27
+  communities_processed: 5
+organizers:
+- name: Álvaro Sanz
+  community: sevilla
+  affiliation: GDG Organizer
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/%25C3%25A1lvaro_sanz.jpg
+- name: Carlos Acuña
+  community: sevilla
+  affiliation: Software Engineer
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/carlos_acu%25C3%25B1a_gbX486K.jpg
+- name: Tomás Domínguez
+  community: sevilla
+  affiliation: Data Scientist
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/tom%25C3%25A1s_dom%25C3%25ADnguez_U56uvD8.jpg
+- name: Adrián Román
+  community: sevilla
+  affiliation: D365 BC Developer & User support
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/adri%25C3%25A1n_rom%25C3%25A1n.JPG
+- name: Carlos Caballero
+  community: malaga
+  affiliation: GDG Organizer
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/carlos_caballero.jpg
+- name: José Antonio Palacios Ramírez
+  community: malaga
+  affiliation: Organizer
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/jos%25C3%25A9_antonio_palacios_ram%25C3%25ADrez.jpg
+- name: David Rojo
+  community: malaga
+  affiliation: Organizador
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/david_rojo_zdO00uG.jpg
+- name: Sergio Bellido
+  community: malaga
+  affiliation: Organizador
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/sergio_bellido.jpg
+- name: Francisco Lara Natoli
+  community: malaga
+  affiliation: Organizador
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/francisco_lara_natoli_300BlBl.jpg
+- name: Elena Guzman Blanco
+  community: malaga
+  affiliation: Colaboradora
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/featured_attendees/photo_2022-11-18_20-42-48.jpg
+- name: Cristina D.
+  community: malaga
+  affiliation: Colaboradora
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/cristina_d._XTwzh8D.jpg
+- name: Jaime Veleiro Ruiz
+  community: malaga
+  affiliation: GDG on Campus (Estudiantes)
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/jaime_veleiro_ruiz.jpg
+- name: Paula Coarasa
+  community: malaga
+  affiliation: GDG on Campus (Estudiantes)
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/paula_coarasa.jpg
+- name: Israel Blancas
+  community: granada
+  affiliation: GDG Lead Organizer
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/israel_blancas_necR59n.jpg
+- name: Pablo Arrabal Espinosa
+  community: cordoba
+  affiliation: Owner of GDG Córdoba
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/pablo_arrabal_espinosa_YnOQ6sx.png
+- name: Jesús Escribano
+  community: cordoba
+  affiliation: Staff Member of GDG Córdoba
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/jes%25C3%25BAs_escribano_6YXPusS.jpeg
+- name: Alba Palomino
+  community: cordoba
+  affiliation: Staff Member of GDG Córdoba
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/alba_palomino_nio7xTO.jpeg
+- name: Jose Gilarte Alvarez
+  community: cordoba
+  affiliation: Staff Member of GDG Córdoba
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/jose_gilarte_alvarez.jpeg
+- name: Rafael Pérez López
+  community: cordoba
+  affiliation: Staff Member of GDG Córdoba
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/rafael_p%25C3%25A9rez_l%25C3%25B3pez.jpg
+- name: Alberto Checa
+  community: jaen
+  affiliation: GDG Organizer
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/alberto_checa_Pm1LbAX.jpg
+- name: Antonio Mudarra Machuca
+  community: jaen
+  affiliation: GDG Organizer
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/antonio_mudarra_machuca.png
+- name: Milagros Mancuso
+  community: jaen
+  affiliation: GDG Organizer & WTM Jaén Ambassador
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/milagros_mancuso_wR2v8Xy.jpeg
+- name: Juan Montes Trujillo
+  community: jaen
+  affiliation: GDG Organizer
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/juan_montes_trujillo.jpg
+- name: Miguel Gómez Frieyro
+  community: jaen
+  affiliation: GDG Organizer
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/miguel_g%25C3%25B3mez_frieyro_mI9TWwX.jpg
+- name: Lucia Masats
+  community: jaen
+  affiliation: GDG Organizer
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/lucia_masats.jpeg
+- name: Raúl Gómez Téllez
+  community: jaen
+  affiliation: GDG Jaen
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/ra%25C3%25BAl_g%25C3%25B3mez_t%25C3%25A9llez.jpg
+- name: Priscila Solana
+  community: jaen
+  affiliation: GDG Jaen
+  profile_image: https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/avatars/priscila_solana.jpeg
