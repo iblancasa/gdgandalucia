@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GDG Andalucía - Comunidades de Desarrolladores de Google</title>
+    <meta name="description" content="Comunidades de desarrolladores de Google en Andalucía. Conectando desarrolladores, compartiendo conocimiento y construyendo el futuro de la tecnología.">
+    
+    <!-- Material Design Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="header" id="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo-section">
+                    <div class="logo-placeholder">
+                        <span class="material-icons">groups</span>
+                    </div>
+                    <h1 class="site-title">GDG Andalucía</h1>
+                </div>
+                <nav class="nav" id="main-nav">
+                    <ul class="nav-list">
+                        <li><a href="#inicio" class="nav-link">Inicio</a></li>
+                        <li><a href="#comunidades" class="nav-link">Comunidades</a></li>
+                        <li><a href="#eventos" class="nav-link">Eventos</a></li>
+                        <li><a href="#contacto" class="nav-link">Contacto</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero" id="inicio">
+        <div class="container">
+            <div class="hero-content">
+                <h2 class="hero-title">Bienvenidos a GDG Andalucía</h2>
+                <p class="hero-subtitle">
+                    Conectando desarrolladores, compartiendo conocimiento y construyendo el futuro de la tecnología en Andalucía
+                </p>
+                <div class="hero-actions">
+                    <button class="btn btn-primary" id="explore-btn">
+                        <span class="material-icons">explore</span>
+                        Explorar Comunidades
+                    </button>
+                    <button class="btn btn-secondary" id="join-btn">
+                        <span class="material-icons">person_add</span>
+                        Únete a Nosotros
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Communities Grid Section -->
+    <section class="communities-section" id="comunidades">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Nuestras Comunidades</h2>
+                <p class="section-subtitle">
+                    Descubre las comunidades GDG activas en Andalucía y únete a la conversación
+                </p>
+            </div>
+            
+            <div class="communities-grid" id="communities-grid">
+
+                <!-- Community: GDG Sevilla -->
+                <div class="community-card" data-community="sevilla">
+                    <div class="community-logo">
+                        <div class="logo-placeholder">
+                            <span class="material-icons">location_on</span>
+                        </div>
+                    </div>
+                    <div class="community-info">
+                        <h3 class="community-name">GDG Sevilla</h3>
+                        <p class="community-description">
+                            Comunidad de desarrolladores de Google en Sevilla
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Placeholder for GDG Málaga -->
+                <div class="community-card" data-community="malaga">
+                    <div class="community-logo">
+                        <div class="logo-placeholder">
+                            <span class="material-icons">location_on</span>
+                        </div>
+                    </div>
+                    <div class="community-info">
+                        <h3 class="community-name">GDG Málaga</h3>
+                        <p class="community-description">
+                            Comunidad de desarrolladores de Google en Málaga
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Placeholder for GDG Granada -->
+                <div class="community-card" data-community="granada">
+                    <div class="community-logo">
+                        <div class="logo-placeholder">
+                            <span class="material-icons">location_on</span>
+                        </div>
+                    </div>
+                    <div class="community-info">
+                        <h3 class="community-name">GDG Granada</h3>
+                        <p class="community-description">
+                            Comunidad de desarrolladores de Google en Granada
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Placeholder for GDG Córdoba -->
+                <div class="community-card" data-community="cordoba">
+                    <div class="community-logo">
+                        <div class="logo-placeholder">
+                            <span class="material-icons">location_on</span>
+                        </div>
+                    </div>
+                    <div class="community-info">
+                        <h3 class="community-name">GDG Córdoba</h3>
+                        <p class="community-description">
+                            Comunidad de desarrolladores de Google en Córdoba
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Placeholder for GDG Almería -->
+                <div class="community-card" data-community="almeria">
+                    <div class="community-logo">
+                        <div class="logo-placeholder">
+                            <span class="material-icons">location_on</span>
+                        </div>
+                    </div>
+                    <div class="community-info">
+                        <h3 class="community-name">GDG Almería</h3>
+                        <p class="community-description">
+                            Comunidad de desarrolladores de Google en Almería
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Placeholder for GDG Cádiz -->
+                <div class="community-card" data-community="cadiz">
+                    <div class="community-logo">
+                        <div class="logo-placeholder">
+                            <span class="material-icons">location_on</span>
+                        </div>
+                    </div>
+                    <div class="community-info">
+                        <h3 class="community-name">GDG Cádiz</h3>
+                        <p class="community-description">
+                            Comunidad de desarrolladores de Google en Cádiz
+                        </p>
+                    </div>
+                </div>
+
+                <!-- Community: GDG Huelva -->
+                <div class="community-card" data-community="huelva">
+                    <div class="community-logo">
+                        <div class="logo-placeholder">
+                            <span class="material-icons">location_on</span>
+                        </div>
+                    </div>
+                    <div class="community-info">
+                        <h3 class="community-name">GDG Huelva</h3>
+                        <p class="community-description">
+                            Comunidad de desarrolladores de Google en Huelva
+                        </p>
+                    </div>
+                </div>
+                <!-- Community: GDG Jaén -->
+                <div class="community-card" data-community="jaen">
+                    <div class="community-logo">
+                        <div class="logo-placeholder">
+                            <span class="material-icons">location_on</span>
+                        </div>
+                    </div>
+                    <div class="community-info">
+                        <h3 class="community-name">GDG Jaén</h3>
+                        <p class="community-description">
+                            Comunidad de desarrolladores de Google en Jaén
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Future Sections Placeholder -->
+    <!-- 
+    SECTION: Eventos
+    ID: eventos
+    DESCRIPTION: Sección para mostrar próximos eventos y meetups de las comunidades GDG
+    -->
+    <section class="events-section" id="eventos">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Próximos Eventos</h2>
+                <p class="section-subtitle">
+                    Mantente al día con los eventos y meetups de nuestras comunidades
+                </p>
+            </div>
+            <div class="events-placeholder">
+                <div class="placeholder-content">
+                    <span class="material-icons">event</span>
+                    <p>Contenido de eventos próximamente disponible</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 
+    SECTION: Contacto
+    ID: contacto
+    DESCRIPTION: Sección para información de contacto y redes sociales
+    -->
+    <section class="contact-section" id="contacto">
+        <div class="container">
+            <div class="section-header">
+                <h2 class="section-title">Contacto</h2>
+                <p class="section-subtitle">
+                    Conecta con nosotros y únete a la conversación
+                </p>
+            </div>
+            <div class="contact-placeholder">
+                <div class="placeholder-content">
+                    <span class="material-icons">contact_support</span>
+                    <p>Información de contacto próximamente disponible</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>GDG Andalucía</h3>
+                    <p>Comunidades de desarrolladores de Google en Andalucía</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Enlaces</h4>
+                    <ul class="footer-links">
+                        <li><a href="#inicio">Inicio</a></li>
+                        <li><a href="#comunidades">Comunidades</a></li>
+                        <li><a href="#eventos">Eventos</a></li>
+                        <li><a href="#contacto">Contacto</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 GDG Andalucía. Todos los derechos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Custom JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html> 

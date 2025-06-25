@@ -1,0 +1,123 @@
+# GDG Andalucía Communities Configuration
+# This file contains information about all GDG communities in Andalucía
+
+communities:
+  - name: "GDG Sevilla"
+    slug: "sevilla"
+    description: "Comunidad de desarrolladores de Google en Sevilla"
+    logo_path: "images/gdg-sevilla-logo.png"
+    website: "https://gdg.community.dev/gdg-sevilla/"
+    social:
+      twitter: "@gdgsevilla"
+      linkedin: "gdg-sevilla"
+      meetup: "gdg-sevilla"
+    location: "Sevilla"
+    province: "Sevilla"
+    active: true
+    featured: true
+
+  - name: "GDG Málaga"
+    slug: "malaga"
+    description: "Comunidad de desarrolladores de Google en Málaga"
+    logo_path: "images/gdg-malaga-logo.png"
+    website: "https://gdg.community.dev/gdg-malaga/"
+    social:
+      twitter: "@gdgmalaga"
+      linkedin: "gdg-malaga"
+      meetup: "gdg-malaga"
+    location: "Málaga"
+    province: "Málaga"
+    active: true
+    featured: true
+
+  - name: "GDG Granada"
+    slug: "granada"
+    description: "Comunidad de desarrolladores de Google en Granada"
+    logo_path: "images/gdg-granada-logo.png"
+    website: "https://gdg.community.dev/gdg-granada/"
+    social:
+      twitter: "@gdggranada"
+      linkedin: "gdg-granada"
+      meetup: "gdg-granada"
+    location: "Granada"
+    province: "Granada"
+    active: true
+    featured: true
+
+  - name: "GDG Córdoba"
+    slug: "cordoba"
+    description: "Comunidad de desarrolladores de Google en Córdoba"
+    logo_path: "images/gdg-cordoba-logo.png"
+    website: "https://gdg.community.dev/gdg-cordoba/"
+    social:
+      twitter: "@gdgcordoba"
+      linkedin: "gdg-cordoba"
+      meetup: "gdg-cordoba"
+    location: "Córdoba"
+    province: "Córdoba"
+    active: true
+    featured: false
+
+  - name: "GDG Almería"
+    slug: "almeria"
+    description: "Comunidad de desarrolladores de Google en Almería"
+    logo_path: "images/gdg-almeria-logo.png"
+    website: "https://gdg.community.dev/gdg-almeria/"
+    social:
+      twitter: "@gdgalmeria"
+      linkedin: "gdg-almeria"
+      meetup: "gdg-almeria"
+    location: "Almería"
+    province: "Almería"
+    active: true
+    featured: false
+
+  - name: "GDG Cádiz"
+    slug: "cadiz"
+    description: "Comunidad de desarrolladores de Google en Cádiz"
+    logo_path: "images/gdg-cadiz-logo.png"
+    website: "https://gdg.community.dev/gdg-cadiz/"
+    social:
+      twitter: "@gdgcadiz"
+      linkedin: "gdg-cadiz"
+      meetup: "gdg-cadiz"
+    location: "Cádiz"
+    province: "Cádiz"
+    active: true
+    featured: false
+
+  - name: "GDG Huelva"
+    slug: "huelva"
+    description: "Comunidad de desarrolladores de Google en Huelva"
+    logo_path: "images/gdg-huelva-logo.png"
+    website: "https://gdg.community.dev/gdg-huelva/"
+    social:
+      twitter: "@gdghuelva"
+      linkedin: "gdg-huelva"
+      meetup: "gdg-huelva"
+    location: "Huelva"
+    province: "Huelva"
+    active: true
+    featured: false
+
+  - name: "GDG Jaén"
+    slug: "jaen"
+    description: "Comunidad de desarrolladores de Google en Jaén"
+    logo_path: "images/gdg-jaen-logo.png"
+    website: "https://gdg.community.dev/gdg-jaen/"
+    social:
+      twitter: "@gdgjaen"
+      linkedin: "gdg-jaen"
+      meetup: "gdg-jaen"
+    location: "Jaén"
+    province: "Jaén"
+    active: true
+    featured: false
+
+# Configuration options
+config:
+  sort_by: "name"  # Options: name, location, featured
+  sort_order: "asc"   # Options: asc, desc
+  show_inactive: false # Whether to show inactive communities
+  max_communities: 12  # Maximum number of communities to display
+  logo_placeholder: true # Use placeholder icons if logo not found 
