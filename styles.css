@@ -654,4 +654,24 @@ body {
     width: 64px;
     height: 64px;
   }
+}
+
+/* Community Links */
+.community-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease;
+}
+
+.community-link:hover {
+    transform: translateY(-2px);
+}
+
+.community-link:focus {
+    outline: none;
+}
+
+.community-link:focus .community-card {
+    box-shadow: 0 4px 16px rgba(60, 80, 60, 0.15);
 } 
