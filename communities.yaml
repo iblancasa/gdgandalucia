@@ -58,48 +58,6 @@ communities:
     active: true
     featured: false
 
-  - name: "GDG Almería"
-    slug: "almeria"
-    description: "Comunidad de desarrolladores de Google en Almería"
-    logo_path: "images/gdg-almeria-logo.png"
-    website: "https://gdg.community.dev/gdg-almeria/"
-    social:
-      twitter: "@gdgalmeria"
-      linkedin: "gdg-almeria"
-      meetup: "gdg-almeria"
-    location: "Almería"
-    province: "Almería"
-    active: true
-    featured: false
-
-  - name: "GDG Cádiz"
-    slug: "cadiz"
-    description: "Comunidad de desarrolladores de Google en Cádiz"
-    logo_path: "images/gdg-cadiz-logo.png"
-    website: "https://gdg.community.dev/gdg-cadiz/"
-    social:
-      twitter: "@gdgcadiz"
-      linkedin: "gdg-cadiz"
-      meetup: "gdg-cadiz"
-    location: "Cádiz"
-    province: "Cádiz"
-    active: true
-    featured: false
-
-  - name: "GDG Huelva"
-    slug: "huelva"
-    description: "Comunidad de desarrolladores de Google en Huelva"
-    logo_path: "images/gdg-huelva-logo.png"
-    website: "https://gdg.community.dev/gdg-huelva/"
-    social:
-      twitter: "@gdghuelva"
-      linkedin: "gdg-huelva"
-      meetup: "gdg-huelva"
-    location: "Huelva"
-    province: "Huelva"
-    active: true
-    featured: false
-
   - name: "GDG Jaén"
     slug: "jaen"
     description: "Comunidad de desarrolladores de Google en Jaén"

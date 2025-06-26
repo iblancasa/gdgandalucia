@@ -94,22 +94,24 @@ class CommunitiesGenerator:
         else:
             logo_html = '<span class="material-icons">location_on</span>'
         
-        # Generate the card HTML (removed stats)
+        # Generate the card HTML wrapped in an anchor tag
         card_html = f'''
                 <!-- Community: {name} -->
-                <div class="community-card" data-community="{slug}">
-                    <div class="community-logo">
-                        <div class="logo-placeholder">
-                            {logo_html}
+                <a href="{website}" target="_blank" rel="noopener" class="community-link">
+                    <div class="community-card" data-community="{slug}">
+                        <div class="community-logo">
+                            <div class="logo-placeholder">
+                                {logo_html}
+                            </div>
+                        </div>
+                        <div class="community-info">
+                            <h3 class="community-name">{name}</h3>
+                            <p class="community-description">
+                                {description}
+                            </p>
                         </div>
                     </div>
-                    <div class="community-info">
-                        <h3 class="community-name">{name}</h3>
-                        <p class="community-description">
-                            {description}
-                        </p>
-                    </div>
-                </div>'''
+                </a>'''
         
         return card_html
     
